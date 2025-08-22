@@ -1,0 +1,4 @@
+"dependencies": {
+  "framer-motion": "^11.x",
+  "lucide-react": "^0.4.x"
+}
